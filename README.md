@@ -15,6 +15,8 @@ Lập trình Java với trọng tâm về **Kiến trúc và Thiết kế phần
   
 <img width="861" height="368" alt="image" src="https://github.com/user-attachments/assets/160380d9-4c8b-4ffd-8a00-1d1cfd36a973" />
 
+> Cài đặt PlantUML của Vojtech Krasa để vẽ sơ đồ trực quan
+
 ---
 
 ## Thông tin về các mẫu thiết kế (Design Patterns)
