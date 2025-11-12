@@ -8,9 +8,9 @@ Lập trình Java với trọng tâm về **Kiến trúc và Thiết kế phần
 
 ## Công cụ hỗ trợ
 
-- **IntelliJ IDEA Community Edition**  
-  Phiên bản miễn phí, đầy đủ tính năng hỗ trợ phát triển Java hiệu quả.  
-  Link tải: [Tải IntelliJ IDEA Community](https://www.jetbrains.com/idea/download/?section=windows)
+**IntelliJ IDEA Community Edition**  
+Phiên bản miễn phí, đầy đủ tính năng hỗ trợ phát triển Java hiệu quả.  
+Link tải: [Tải IntelliJ IDEA Community](https://www.jetbrains.com/idea/download/?section=windows)
   (Lướt xuống dưới tại mục này để tải bản Community)
   
 <img width="861" height="368" alt="image" src="https://github.com/user-attachments/assets/160380d9-4c8b-4ffd-8a00-1d1cfd36a973" />
